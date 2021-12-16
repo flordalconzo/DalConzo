@@ -41,6 +41,12 @@ header {
     color: #A19882;
 }
 
+.sub {
+    text-decoration: underline;
+    font-weight: 600;
+    color: cornsilk;
+}
+
 
 /* Logo header */
 
