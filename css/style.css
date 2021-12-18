@@ -15,8 +15,6 @@ body {
 /* Header y menu */
 
 header {
-    background-color: #FEF7DC;
-    width: 100%;
     height: 100px;
     display: flex;
     justify-content: space-between;
@@ -25,26 +23,8 @@ header {
     z-index: 6;
 }
 
-.menuInicio {
-    margin: 20px;
-}
-
-.menuInicio ul li {
-    display: inline-block;
-    margin-left: 20px;
-}
-
-.menuInicio ul li a {
-    text-decoration: none;
-    text-transform: uppercase;
-    font-weight: 400;
-    color: #A19882;
-}
-
-.sub {
-    text-decoration: underline;
-    font-weight: 600;
-    color: cornsilk;
+header h1 {
+    text-align: center;
 }
 
 
