@@ -15,7 +15,8 @@ body {
 /* Header y menu */
 
 header {
-    height: 100px;
+    width: 100%;
+    height: 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -25,6 +26,11 @@ header {
 
 header h1 {
     text-align: center;
+}
+
+.menu {
+    text-align: right;
+    align-items: right;
 }
 
 
